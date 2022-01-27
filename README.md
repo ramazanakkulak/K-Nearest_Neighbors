@@ -42,10 +42,10 @@ The above 2 steps are performed. Before this process is performed, the python ve
 
 **Terminal complier CMake:**
 
-**(1) g++ main.cpp Data.cpp KNN.cpp Graph.cpp Prim.cpp -std=c++11 -I/usr/include/python3.8 -lpython3.8**
+>g++ main.cpp Data.cpp KNN.cpp Graph.cpp Prim.cpp -std=c++11 -I/usr/include/python3.8 -lpython3.8
 
-**This command is typed into the terminal to view the results. The video of the study is given in**
+**This command is typed into the terminal to view the results. The video of the study is given in
 
-**(2) ./a.out**
+>./a.out**
 
 Youtube: https://www.youtube.com/watch?v=fES9V6NLvkc
