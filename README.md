@@ -30,6 +30,7 @@ The study was developed on VS code ide. There is also the matplotlib.cpp functio
 
 Installing the matplotlib package required for Graph:
 MatPlotLib setups steps. (1)Github link (2) Python lib setup, (3) Example run
+
 (1)	https://github.com/lava/matplotlib-cpp
 
 (2)	sudo apt-get install python-matplotlib pythonX-numpy pythonX.X-dev
