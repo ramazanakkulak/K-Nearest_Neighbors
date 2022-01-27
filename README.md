@@ -48,4 +48,7 @@ The above 2 steps are performed. Before this process is performed, the python ve
 
 >./a.out**
 
+![image](https://user-images.githubusercontent.com/78980365/151438183-42aa6cc6-d0b8-4bf4-86d8-add956c49ed8.png)
+
+
 Youtube: https://www.youtube.com/watch?v=fES9V6NLvkc
